@@ -1,7 +1,10 @@
 changkun.de/x/cyclemod v0.1.0/go.mod h1:MQwZ42YX6mBSwPAAWmn5aEmUDVJiSGUuXVvMmhQmIaM=
 changkun.de/x/cyclemod v0.2.0/go.mod h1:fiyOK9G0kStEpLDhFH8TmfHDpDZ46OpmI+mQ2zY9ILo=
 changkun.de/x/cyclemod v0.3.0/go.mod h1:rmzflMACWIYmgRd+/aUems3u2LXpMmr70X1818TCapM=
+changkun.de/x/cyclemod v0.4.0/go.mod h1:NIgA6B855LO4ZdlpMJ1AXmhfqEXp3ONnrcu6MDtlN94=
 changkun.de/x/cyclemod2 v0.1.0/go.mod h1:RNghfEeU4z6Kp3si3GzLYsMLR+2TRfqQyhO1fqowIdA=
 changkun.de/x/cyclemod2 v0.2.0/go.mod h1:sESK5Y8DDKBeeRZVVVKs66RLDFF7vc/cCsiksbuZ+Qk=
 changkun.de/x/cyclemod2 v0.3.0 h1:3bX4KPcuJeZk0oHbEej6uE36mZGu/qN/7Z5gbpXDmks=
 changkun.de/x/cyclemod2 v0.3.0/go.mod h1:OWSZe2yZEy7lRDL7e3M2iSsYr6Rtz+avCJubOxSu6xo=
+changkun.de/x/cyclemod2/v2 v2.1.0 h1:gPbBVQTVg8L0TT4s7WUl9SG46qsMaILhHad/QtRy8Gc=
+changkun.de/x/cyclemod2/v2 v2.1.0/go.mod h1:32AyFpwHAXK33dZjxm7WQjJjppKc5rxsCbWPpBKDaik=

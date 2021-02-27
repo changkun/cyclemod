@@ -3,7 +3,7 @@ package cyclemod
 import (
 	"fmt"
 
-	"changkun.de/x/cyclemod2"
+	"changkun.de/x/cyclemod2/v2"
 )
 
 // Call prints package version
@@ -13,4 +13,4 @@ func Call() {
 }
 
 // Version is the version of the module
-var Version = "v0.4.0"
+var Version = "v1.0.0"
